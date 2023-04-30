@@ -1,0 +1,1 @@
+test szyfru z wyborem po refactoring dla vernama
