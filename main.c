@@ -1,5 +1,6 @@
 // Paweł Reliński
 // Krystian Rożnawski
+// Projekt 18. Szyfrowanie (2 osoby)
 
 #include <stdio.h>
 #include <stdlib.h>
