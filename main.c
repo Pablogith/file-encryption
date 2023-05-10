@@ -1,3 +1,6 @@
+// Paweł Reliński
+// Krystian Rożnawski
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
